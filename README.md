@@ -23,8 +23,6 @@ This project is a web application designed to facilitate the efficient managemen
 - HTML: Markup language for creating the structure and content of web pages.
 - CSS: Styling language for enhancing the visual presentation of the web application.
 - MySQL: Database management system for storing and managing complaint data securely.
-- JavaScript: Client-side scripting language for interactive elements and dynamic behavior.
-- Bootstrap: Front-end framework for responsive and mobile-first web development.
 
 **How to Use:**
 
